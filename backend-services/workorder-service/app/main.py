@@ -1,18 +1,19 @@
 from fastapi import FastAPI
-from fastapi.responses import HTMLResponse
+from pydantic import BaseModel
 
-app = FastAPI(title="workorder Service")
+app = FastAPI(
+    title="Workorder Service API",
+    description="Workorder microservice documentation",
+    version="1.0.0",
+    docs_url="/api-docs",
+    redoc_url="/redoc"
+)
 
-@app.get("/", response_class=HTMLResponse)
-def root():
-    return """
-    <html>
-      <head>
-        <title>workorder Service</title>
-      </head>
-      <body>
-        <h1>workorder Service is running</h1>
-      </body>
-    </html>
-    """
+class WorkorderResponse(BaseModel):
+    service: str
+    status: str
+
+@app.get("/workorder", response_model=WorkorderResponse, summary="Get Workorder", description="Retrieve workorder information")
+def get_workorder():
+    return {"service": "workorder", "status": "workorder processed"}
 
