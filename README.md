@@ -313,6 +313,6 @@ This setup reflects **real-world DevOps practices**:
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/70229465-ef9c-46bc-8a3b-c008c9dd7ba6" />
 
-Happy Learning!!....
+**Happy Learning!! from Shaik....**
 
 
