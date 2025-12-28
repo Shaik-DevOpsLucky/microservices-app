@@ -283,23 +283,33 @@ This setup reflects **real-world DevOps practices**:
 **Email:** moula.cloud5@gmail.com
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/281fe858-929c-49cd-b514-df2d8d2a8c50" />
 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e544f678-caf3-4ff6-bc4c-de78b1ccf6ce" />
+
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/87cad6af-f6cf-4e08-9599-26bcd502f9da" />
 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/acd3b6d7-8a37-45a0-8e32-e7cc398041b5" />
+
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3bd98495-71bc-470f-8e3b-360c63a791e9" />
 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7466cc8a-f5e8-45a8-8c4f-2608e71d0174" />
+
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b292d3fa-f0e3-4235-a00c-0a803e9134fc" />
 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/15cf1dc9-fe20-424e-959a-889071caa407" />
+
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cb2cb5e7-349d-4df2-8e4b-5e5d890a7416" />
 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/223d81c3-0908-457c-98b7-9846a8a84d70" />
+
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/70229465-ef9c-46bc-8a3b-c008c9dd7ba6" />
 
