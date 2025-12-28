@@ -4,7 +4,9 @@ from pydantic import BaseModel
 app = FastAPI(
     title="Email Service API",
     description="Email microservice documentation",
-    version="1.0.0"
+    version="1.0.0",
+    docs_url="/api-docs",
+    redoc_url="/redoc"
 )
 
 class EmailResponse(BaseModel):

@@ -23,7 +23,11 @@ const swaggerOptions = {
 };
 
 const specs = swaggerJsdoc(swaggerOptions);
-app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(specs));
+const customCssOptions = {
+  customCss: '.swagger-ui .topbar { display: none } .swagger-ui .info .title { font-size: 32px; color: #3b82f6; }',
+  customSiteTitle: 'Product Service API Documentation'
+};
+app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(specs, customCssOptions));
 
 /**
  * @swagger
